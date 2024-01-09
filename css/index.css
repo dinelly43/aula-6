@@ -1,0 +1,11 @@
+label{
+    display: block;
+}
+
+input[type= "checkbox"]{
+    accent-color:  blueviolet
+    ;
+}
+input[type= "radio"]{
+    accent-color:  red;
+}
